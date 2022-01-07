@@ -1,4 +1,4 @@
-## Publications
+## CBIL Publications
 2021
 
     Vita R, Zheng J, Jackson R, Dooley D, Overton JA, Miller MA, Berrios DC, Scheuermann RH, He Y, McGinty HK, Brochhausen M, Lin AY, Jain SB, Chibucos MC, Judkins J, Giglio MG, Feng IY, Burns G, Brush MH, Peters B, Stoeckert CJ Jr. Standardization of assay representation in the Ontology for Biomedical Investigations. Database (Oxford). 2021 Jul 9;2021:baab040. PMID: 34244718
