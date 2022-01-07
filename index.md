@@ -13,4 +13,5 @@ CBIL is directed by Chris Stoeckert who is faculty in the Department of Genetics
 <li><a href="http://obi-ontology.org/">Ontology for Biomedical Investigations</a></li>
 </ul>
 
+## [News](news.md)
 ## [Publications](publications.md)
