@@ -7,6 +7,6 @@
 
 [NIAGADS GenomicsDB](https://www.niagads.org/genomics/)
 
-GUS
+[GUS](past-projects/GUS.md)
 
 Past projects
