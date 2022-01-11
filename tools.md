@@ -1,7 +1,7 @@
 # CBIL Tools
 [AnnotCompute](http://www.cbil.upenn.edu/AnnotCompute/)
 
-[Benchmarker for Evaluating the Effectiveness of RNA-Seq Software (BEERS)])http://www.cbil.upenn.edu/BEERS/)
+[Benchmarker for Evaluating the Effectiveness of RNA-Seq Software (BEERS)](http://www.cbil.upenn.edu/BEERS/)
 
 [Patterns from Gene Expression (PaGE)](http://www.cbil.upenn.edu/PaGE/)
 
