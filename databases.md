@@ -1,4 +1,4 @@
-## CBIL Databases
+# CBIL Databases
 [ErythronDB](https://www.cbil.upenn.edu/ErythronDB/)
 
 [VEuPathDB](https://veupathdb.org/veupathdb/app)
@@ -9,4 +9,4 @@
 
 [GUS](past-projects/GUS.md)
 
-Past projects
+## Past projects
