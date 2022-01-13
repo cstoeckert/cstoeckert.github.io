@@ -1,6 +1,7 @@
 # CBIL People
 
 ## Current 
+
 | Faculty / Academic | Position |
 |---------------------------|----------------------------:|
 | Gregory Grant |	Research Associate Professor, Genetics |
@@ -27,6 +28,7 @@
 | Deborah Pinney |	Application Developer Sr. |
 
 ## Alumni	
+
 | Student    |Advisor(s) |	Dates |	Project / Thesis |	Current Position |
 |------------|-----------|--------|------------------|------------------:|
 | Kobby Essien |	Christian Stoeckert |	2004 - 2009 |	Computational approaches for studying transcriptional regulation in Plasmodium and other apicomplexan parasites |	Associate Product Manager at Reata Pharmaceuticals |
