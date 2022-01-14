@@ -27,6 +27,11 @@
 | Elisabetta Manduchi |	Manager, Research Project B |
 | Deborah Pinney |	Application Developer Sr. |
 
+![CBIL picnic](https://www.cbil.upenn.edu//sites/default/files/picnic.png)
+
+Pictured from left to right: Sufen Hu, Tiziana Sanavia, Elisabetta Manduchi, Christian Stoeckert, Emily Greenfest-Allen,
+Jie Zheng, Cris Lawrence, Deborah Pinney, Omar Harb, Bindu Gajria, John Iodice, John Brestelli
+
 ## Alumni	
 
 | Student    |Advisor(s) |	Dates |	Project / Thesis |	Current Position |
