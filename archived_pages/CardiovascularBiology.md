@@ -46,5 +46,4 @@
 
 </table>
 
-<p>
-Here is a <a href="http://www.cbil.upenn.edu/node/65">list</a> of related papers from the Davies lab.
+Here is a [list](CardiovascularBiologyPapers.md) of related papers from the Davies lab.
