@@ -1,46 +1,58 @@
 ## CBIL Publications
+2022
+
+    Amos B, Aurrecoechea C, Barba M, Barreto A, Basenko EY, Bażant W, Belnap R, Blevins AS, Böhme U, Brestelli J, Brunk BP, Caddick M, Callan D, Campbell L, Christensen MB, Christophides GK, Crouch K, Davis K, DeBarry J, Doherty R, Duan Y, Dunn M, Falke D, Fisher S, Flicek P, Fox B, Gajria B, Giraldo-Calderón GI, Harb OS, Harper E, Hertz-Fowler C, Hickman MJ, Howington C, Hu S, Humphrey J, Iodice J, Jones A, Judkins J, Kelly SA, Kissinger JC, Kwon DK, Lamoureux K, Lawson D, Li W, Lies K, Lodha D, Long J, MacCallum RM, Maslen G, McDowell MA, Nabrzyski J, Roos DS, Rund SSC, Schulman SW, Shanmugasundram A, Sitnik V, Spruill D, Starns D, Stoeckert CJ, Tomko SS, Wang H, Warrenfeltz S, Wieck R, Wilkinson PA, Xu L, Zheng J.
+    VEuPathDB: the eukaryotic pathogen, vector and host bioinformatics resource center. 
+    Nucleic Acids Res. 2022 Jan 7;50(D1):D898-D911.
+    PMID: 34718728
+    
 2021
 
+    Jackson R, Matentzoglu N, Overton JA, Vita R, Balhoff JP, Buttigieg PL, Carbon S, Courtot M, Diehl AD, Dooley DM, Duncan WD, Harris NL, Haendel MA, Lewis SE, Natale DA, Osumi-Sutherland D, Ruttenberg A, Schriml LM, Smith B, Stoeckert CJ Jr, Vasilevsky NA, Walls RL, Zheng J, Mungall CJ, Peters B.
+    OBO Foundry in 2021: operationalizing open data principles to evaluate ontologies. 
+    Database (Oxford). 2021 Oct 26;2021:baab069.
+    PMID: 34697637 
+    
     Vita R, Zheng J, Jackson R, Dooley D, Overton JA, Miller MA, Berrios DC, Scheuermann RH, He Y, McGinty HK, Brochhausen M, Lin AY, Jain SB, Chibucos MC, Judkins J, Giglio MG, Feng IY, Burns G, Brush MH, Peters B, Stoeckert CJ Jr. 
     Standardization of assay representation in the Ontology for Biomedical Investigations. 
     Database (Oxford). 2021 Jul 9;2021:baab040. 
-    PMID:34244718
+    PMID: 34244718
     
     Sanavia T, Huang C, Manduchi E, Xu Y, Dadi PK, Potter LA, Jacobson DA, Di Camillo B, Magnuson MA, Stoeckert CJ Jr, Gu G. 
     Temporal Transcriptome Analysis Reveals Dynamic Gene Expression Patterns Driving β-Cell Maturation. 
     Front Cell Dev Biol. 2021 May 4;9:648791. eCollection 2021. 
-    PMID:34017831
+    PMID: 34017831
     
     Osipovich AB, Dudek KD, Greenfest-Allen E, Cartailler JP, Manduchi E, Potter Case L, Choi E, Chapman AG, Clayton HW, Gu G, Stoeckert CJ Jr, Magnuson MA. A developmental lineage-based gene co-expression network for mouse pancreatic β-cells reveals a role for Zfp800 in pancreas development. 
     Development. 2021 Mar 21;148(6):dev196964. 
-    PMID:33653874
+    PMID: 33653874
 
 2020
 
     Held MA, Greenfest-Allen E, Su S, Stoeckert CJ, Stokes MP, Wojchowski DM. 
     Phospho-PTM proteomic discovery of novel EPO- modulated kinases and phosphatases, including PTPN18 as a positive regulator of EPOR/JAK2 Signaling. 
     Cell Signal. 2020 Feb 3;69:109554. 
-    PMID:32027948
+    PMID: 32027948
     
     Hayden G.Freedman, Heather Williams, Mark A.Miller, David Birtwell, Danielle L.Mowery, Christian J.Stoeckert Jr. 
     A novel tool for standardizing clinical data in a semantically rich model. 
     Journal of Biomedical Informatics: X 8, December 2020.
-    PMID:34417005
+    PMID: 34417005
     
     Held MA, Greenfest-Allen E, Jachimowicz E, Stoeckert CJ, Stokes MP, Wood AW, Wojchowski DM. 
     Phospho-proteomic discovery of novel signal transducers including thioredoxin-interacting protein as mediators of erythropoietin-dependent human erythropoiesis. 
     Exp Hematol. 84: 29-44. April 2020.
-    PMID:32259549
+    PMID: 32259549
     
     Breuza L, Arighi CN, Argoud-Puy G, Casals-Casas C, Estreicher A, Famiglietti ML, Georghiou G, Gos A, Gruaz-Gumowski N, Hinz U, Hyka-Nouspikel N, Kramarz B, Lovering RC, Lussi Y, Magrane M, Masson P, Perfetto L, Poux S, Rodriguez-Lopez M, Stoeckert C, Sundaram S, Wang LS, Wu E, Orchard S; IMEx Consortium, UniProt Consortium. 
     A Coordinated Approach by Public Domain Bioinformatics Resources to Aid the Fight Against Alzheimer's Disease Through Expert Curation of Key Protein Targets. 
     J Alzheimers Dis. 77(1): 257-273, 2020.
-    PMID:32716361
+    PMID: 32716361
     
     Ong E, Wang LL, Schaub J, O'Toole JF, Steck B, Rosenberg AZ, Dowd F, Hansen J, Barisoni L, Jain S, de Boer IH, Valerius MT, Waikar SS, Park C, Crawford DC, Alexandrov T, Anderton CR, Stoeckert C, Weng C, Diehl AD, Mungall CJ, Haendel M, Robinson PN, Himmelfarb J, Iyengar R, Kretzler M, Mooney S, He Y 
     Kidney Precision Medicine Project.: Modelling kidney disease using ontology: insights from the Kidney Precision Medicine Project.
     Nat Rev Nephrol. 16(11): 686-696. November 2020.
-    PMID:32939051
+    PMID: 32939051
 
 2019
 
