@@ -5,6 +5,8 @@
 
 [Patterns from Gene Expression (PaGE)](http://www.cbil.upenn.edu/PaGE/)
 
+[PennTURBO](https://github.com/PennTURBO)
+
 [RNA-seq Unified Mapper (RUM)](https://github.com/itmat/rum)
 
 [Significance Tester for the Accumulation of Reads (STAR)](http://www.cbil.upenn.edu/STAR/)
