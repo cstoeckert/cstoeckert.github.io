@@ -6,7 +6,6 @@
 |---------------------------|----------------------------:|
 | Gregory Grant |	Research Associate Professor, Genetics |
 | Christian Stoeckert 	P.I. | Research Professor, Genetics |
-| Tiziana Sanavia |	Visiting Scholar |
 | Emily Greenfest-Allen |	Senior Research Investigator 	|
 | Jie Zheng |	Senior Research Investigator |
 
@@ -43,6 +42,7 @@ Jonathan Schug |	Max Mintz and Christian Stoeckert |	1995 - 2005 |	Integrating g
 
 | Post-doc    |Advisor(s) |	Dates |	Project / Thesis |	Current Position |
 |------------|-----------|--------|------------------|------------------:|
+| Tiziana Sanavia |	Barbara Di Camillo and Christian Stoeckert | 2012-2013 | Genomic analysis and computational methods for studying the development of pancreatic beta cells | Assistant Professor at University of Turin |
 | Chiao Feng Lin |	Christian Stoeckert |	2008 - 2010 |	Beta Cell Biology Consortium, functional genomics of the pancreas, ChIP-seq analysis |	Post-doc, Wang Lab at University of Pennsylvania Perelman School of Medicine |
 | Ghislain Bidaut |	Christian Stoeckert |	2005 - 2007 |	Neural net analysis of stem cell differentiation, Stem Cell Gene Anatomy Project (SCGAP), plasmoMAP |	Head of Bioinformatics at Inserm |
 | Shailesh Date |	Christian Stoeckert, David Roos |	2004 - 2008 |	Plasmodium falciparum interactome, plasmoMAP |	Scientist at Genentech |
