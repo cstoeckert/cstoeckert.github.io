@@ -2,7 +2,7 @@
 
 **CBIL site content moving to GitHub**
 Thursday, January 6, 2022 - 10:01
-Selected content from this www.cbil.upenn.edu site will be migrated to https://cstoeckert.github.io./ over the course of 2022. Once the migration is complete, this CBIL site will be shut down.
+Selected content from the www.cbil.upenn.edu site will be migrated to https://cstoeckert.github.io./ over the course of 2022. Once the migration is complete, the original CBIL site will be shut down.
 
 **New release of OBIB**
 Monday, August 9, 2021 - 11:45
