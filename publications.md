@@ -56,23 +56,41 @@
 
 2019
 
-    Amanda Hicks, Mark Miller, Danielle Mowery and Christian Stoeckert. The Hypertension Ontology: Coordinating clinical data with context-sensitive hypertension criteria. 10th International Conference on Biomedical Ontology July 30 - August 2 2019, Buffalo, NY
+    Amanda Hicks, Mark Miller, Danielle Mowery and Christian Stoeckert. 
+    The Hypertension Ontology: Coordinating clinical data with context-sensitive hypertension criteria. 
+    10th International Conference on Biomedical Ontology July 30 - August 2 2019, Buffalo, NY
     
-    Mark Miller and Christian Stoeckert. A Collaborative, Realism-Based, Electronic Healthcare Graph: Public Data, Common Data Models, and Practical Instantiation. 10th International Conference on Biomedical Ontology July 30 - August 2 2019, Buffalo, NY
+    Mark Miller and Christian Stoeckert. 
+    A Collaborative, Realism-Based, Electronic Healthcare Graph: Public Data, Common Data Models, and Practical Instantiation. 
+    10th International Conference on Biomedical Ontology July 30 - August 2 2019, Buffalo, NY
     
-    Ruhamyankaka E, Brunk BP, Dorsey G, Harb OS, Helb DA, Judkins J, Kissinger JC, Lindsay B, Roos DS, San EJ, Stoeckert CJ, Zheng J, Tomko SS. ClinEpiDB: an open-access clinical epidemiology database resource encouraging online exploration of complex studies. Gates Open Res. 2019 Nov 25;3:1661. PMID:32047873
+    Ruhamyankaka E, Brunk BP, Dorsey G, Harb OS, Helb DA, Judkins J, Kissinger JC, Lindsay B, Roos DS, San EJ, Stoeckert CJ, Zheng J, Tomko SS. 
+    ClinEpiDB: an open-access clinical epidemiology database resource encouraging online exploration of complex studies. 
+    Gates Open Res. 2019 Nov 25;3:1661. PMID:32047873
 
 2018
 
-    Basenko EY, Pulman JA, Shanmugasundram A, Harb OS, Crouch K, Starns D, Warrenfeltz S, Aurrecoechea C, Stoeckert CJ Jr, Kissinger JC, Roos DS, Hertz-Fowler C. FungiDB: An Integrated Bioinformatic Resource for Fungi and Oomycetes. J Fungi (Basel). 2018 Mar 20;4(1). pii: E39. PMID: 30152809; PMCID: PMC5872342
+    Basenko EY, Pulman JA, Shanmugasundram A, Harb OS, Crouch K, Starns D, Warrenfeltz S, Aurrecoechea C, Stoeckert CJ Jr, Kissinger JC, Roos DS, Hertz-Fowler C. 
+    FungiDB: An Integrated Bioinformatic Resource for Fungi and Oomycetes. 
+    J Fungi (Basel). 2018 Mar 20;4(1). pii: E39. 
+    PMID: 30152809; PMCID: PMC5872342
     
-    Huang C, Walker EM, Dadi PK, Hu R, Xu Y, Zhang W, Sanavia T, Mun J, Liu J, Nair GG, Tan HYA, Wang S, Magnuson MA, Stoeckert CJ Jr, Hebrok M, Gannon M, Han W, Stein R, Jacobson DA, Gu G. Synaptotagmin 4 Regulates Pancreatic β Cell Maturation by Modulating the Ca2+ Sensitivity of Insulin Secretion Vesicles. Dev Cell. 2018 May 7;45(3):347-361.e5. PMID: 29656931
+    Huang C, Walker EM, Dadi PK, Hu R, Xu Y, Zhang W, Sanavia T, Mun J, Liu J, Nair GG, Tan HYA, Wang S, Magnuson MA, Stoeckert CJ Jr, Hebrok M, Gannon M, Han W, Stein R, Jacobson DA, Gu G. 
+    Synaptotagmin 4 Regulates Pancreatic β Cell Maturation by Modulating the Ca2+ Sensitivity of Insulin Secretion Vesicles. 
+    Dev Cell. 2018 May 7;45(3):347-361.e5. 
+    PMID: 29656931
     
-    Oliveira FS, Brestelli J, Cade S, Zheng J, Iodice J, Fischer S, Aurrecoechea C, Kissinger JC, Brunk BP, Stoeckert CJ Jr, Fernandes GR, Roos DS, Beiting DP. MicrobiomeDB: a systems biology platform for integrating, mining and analyzing microbiome experiments. Nucleic Acids Res. 2018 Jan 4;46(D1):D684-D691. PMID: 29106667; PMCID: PMC5753346
+    Oliveira FS, Brestelli J, Cade S, Zheng J, Iodice J, Fischer S, Aurrecoechea C, Kissinger JC, Brunk BP, Stoeckert CJ Jr, Fernandes GR, Roos DS, Beiting DP. 
+    MicrobiomeDB: a systems biology platform for integrating, mining and analyzing microbiome experiments.
+    Nucleic Acids Res. 2018 Jan 4;46(D1):D684-D691. 
+    PMID: 29106667; PMCID: PMC5753346
 
 2017
 
-    Aurrecoechea C, Barreto A, Basenko EY, Brestelli J, Brunk BP, Cade S, Crouch K, Doherty R, Falke D, Fischer S, Gajria B, Harb OS, Heiges M, Hertz-Fowler C, Hu S, Iodice J, Kissinger JC, Lawrence C, Li W, Pinney DF, Pulman JA, Roos DS, Shanmugasundram A, Silva-Franco F, Steinbiss S, Stoeckert CJ Jr, Spruill D, Wang H, Warrenfeltz S, Zheng J. EuPathDB: the eukaryotic pathogen genomics database resource. Nucleic Acids Res. 2017 Jan 4;45(D1):D581-D591. doi: 10.1093/nar/gkw1105. Epub 2016 Nov 29. PMID: 27903906 PMCID: PMC5210576
+    Aurrecoechea C, Barreto A, Basenko EY, Brestelli J, Brunk BP, Cade S, Crouch K, Doherty R, Falke D, Fischer S, Gajria B, Harb OS, Heiges M, Hertz-Fowler C, Hu S, Iodice J, Kissinger JC, Lawrence C, Li W, Pinney DF, Pulman JA, Roos DS, Shanmugasundram A, Silva-Franco F, Steinbiss S, Stoeckert CJ Jr, Spruill D, Wang H, Warrenfeltz S, Zheng J. 
+    EuPathDB: the eukaryotic pathogen genomics database resource. 
+    Nucleic Acids Res. 2017 Jan 4;45(D1):D581-D591. doi: 10.1093/nar/gkw1105. Epub 2016 Nov 29. 
+    PMID: 27903906 PMCID: PMC5210576
 
     McCormick ME, Manduchi E, Witschey WRT, Gorman RC, Gorman JH 3rd, Jiang YZ, Stoeckert CJ Jr, Barker AJ, Yoon S, Markl M, Davies PF.
     Spatial phenotyping of the endocardial endothelium as a function of intracardiac hemodynamic shear stress.
@@ -81,25 +99,38 @@
 
 2016
 
-    McCormick ME, Manduchi E, Witschey WR, Gorman RC, Gorman JH 3rd, Jiang YZ, Stoeckert CJ Jr, Barker AJ, Markl M, Davies PF. Integrated Regional Cardiac Hemodynamic Imaging and RNA Sequencing Reveal Corresponding Heterogeneity of Ventricular Wall Shear Stress and Endocardial Transcriptome. J Am Heart Assoc. 2016 Apr 18;5(4). pii: e003170.
+    McCormick ME, Manduchi E, Witschey WR, Gorman RC, Gorman JH 3rd, Jiang YZ, Stoeckert CJ Jr, Barker AJ, Markl M, Davies PF. 
+    Integrated Regional Cardiac Hemodynamic Imaging and RNA Sequencing Reveal Corresponding Heterogeneity of Ventricular Wall Shear Stress and Endocardial Transcriptome. J Am Heart Assoc. 2016 Apr 18;5(4). pii: e003170.
     PMID: 27091183
 
-    Bandrowski A, Brinkman R, Brochhausen M, Brush MH, Bug B, Chibucos MC, Clancy K, Courtot M, Derom D, Dumontier M, Fan L, Fostel J, Fragoso G, Gibson F, Gonzalez-Beltran A, Haendel MA, He Y, Heiskanen M, Hernandez-Boussard T, Jensen M, Lin Y, Lister AL, Lord P, Malone J, Manduchi E, McGee M, Morrison N, Overton JA, Parkinson H, Peters B, Rocca-Serra P, Ruttenberg A, Sansone SA, Scheuermann RH, Schober D, Smith B, Soldatova LN, Stoeckert CJ Jr, Taylor CF, Torniai C, Turner JA, Vita R, Whetzel PL, Zheng J. The Ontology for Biomedical Investigations. PLoS One. 2016 Apr 29;11(4):e0154556.
+    Bandrowski A, Brinkman R, Brochhausen M, Brush MH, Bug B, Chibucos MC, Clancy K, Courtot M, Derom D, Dumontier M, Fan L, Fostel J, Fragoso G, Gibson F, Gonzalez-Beltran A, Haendel MA, He Y, Heiskanen M, Hernandez-Boussard T, Jensen M, Lin Y, Lister AL, Lord P, Malone J, Manduchi E, McGee M, Morrison N, Overton JA, Parkinson H, Peters B, Rocca-Serra P, Ruttenberg A, Sansone SA, Scheuermann RH, Schober D, Smith B, Soldatova LN, Stoeckert CJ Jr, Taylor CF, Torniai C, Turner JA, Vita R, Whetzel PL, Zheng J. 
+    The Ontology for Biomedical Investigations. 
+    PLoS One. 2016 Apr 29;11(4):e0154556.
     PMID: 27128319 PMCID: PMC4851331
 
-    Brochhausen M, Zheng J, Birtwell D, Williams H, Masci AM, Ellis HJ, Stoeckert CJ Jr. OBIB-a novel ontology for biobanking. J Biomed Semantics. 2016 May 2;7:23.
+    Brochhausen M, Zheng J, Birtwell D, Williams H, Masci AM, Ellis HJ, Stoeckert CJ Jr. 
+    OBIB-a novel ontology for biobanking. 
+    J Biomed Semantics. 2016 May 2;7:23.
     PMID: 27148435 PMCID: PMC4855778
 
-    Lin Y, Zheng J, He Y. VICO: Ontology-based representation and integrative analysis of Vaccination Informed Consent forms. J Biomed Semantics. 2016 Apr 19;7:20.
+    Lin Y, Zheng J, He Y. 
+    VICO: Ontology-based representation and integrative analysis of Vaccination Informed Consent forms. 
+    J Biomed Semantics. 2016 Apr 19;7:20.
     PMID: 27099700 PMCID: PMC4837519
 
-    Clayton HW, Osipovich AB, Stancill JS, Schneider JD, Vianna PG, Shanks CM, Yuan W, Gu G, Manduchi E, Stoeckert CJ Jr, Magnuson MA. Pancreatic Inflammation Redirects Acinar to β Cell Reprogramming. Cell Rep. 2016 Nov 15;17(8):2028-2041.
+    Clayton HW, Osipovich AB, Stancill JS, Schneider JD, Vianna PG, Shanks CM, Yuan W, Gu G, Manduchi E, Stoeckert CJ Jr, Magnuson MA. 
+    Pancreatic Inflammation Redirects Acinar to β Cell Reprogramming. 
+    Cell Rep. 2016 Nov 15;17(8):2028-2041.
     PMID:27851966 PMCID: PMC5131369
 
-    Aurrecoechea C, Barreto A, Basenko EY, Brestelli J, Brunk BP, Cade S, Crouch K, Doherty R, Falke D, Fischer S, Gajria B, Harb OS, Heiges M, Hertz-Fowler C, Hu S, Iodice J, Kissinger JC, Lawrence C, Li W, Pinney DF, Pulman JA, Roos DS, Shanmugasundram A, Silva-Franco F, Steinbiss S, Stoeckert CJ Jr, Spruill D, Wang H, Warrenfeltz S, Zheng J. EuPathDB: the eukaryotic pathogen genomics database resource. Nucleic Acids Res. 2016 Nov 29.
+    Aurrecoechea C, Barreto A, Basenko EY, Brestelli J, Brunk BP, Cade S, Crouch K, Doherty R, Falke D, Fischer S, Gajria B, Harb OS, Heiges M, Hertz-Fowler C, Hu S, Iodice J, Kissinger JC, Lawrence C, Li W, Pinney DF, Pulman JA, Roos DS, Shanmugasundram A, Silva-Franco F, Steinbiss S, Stoeckert CJ Jr, Spruill D, Wang H, Warrenfeltz S, Zheng J. 
+    EuPathDB: the eukaryotic pathogen genomics database resource. 
+    Nucleic Acids Res. 2016 Nov 29.
     PMID:27903906
 
-    Zheng J, Harris MR, Masci AM, Lin Y, Hero A, Smith B, He Y. The Ontology of Biological and Clinical Statistics (OBCS) for standardized and reproducible statistical analysis. J Biomed Semantics. 2016 Sep 14;7(1):53.
+    Zheng J, Harris MR, Masci AM, Lin Y, Hero A, Smith B, He Y. 
+    The Ontology of Biological and Clinical Statistics (OBCS) for standardized and reproducible statistical analysis. 
+    J Biomed Semantics. 2016 Sep 14;7(1):53.
     PMID:27627881 PMCID:PMC5024438
 
     Amanda Kuzma, Otto Valladares, Rebecca Cweibel, Emily Greenfest-Allen, Daniel M. Childress, John Malamon, Prabhakaran Gangadharan, Yi Zhao, Liming Qu, Yuk Yee Leung, Adam C. Naj, Christian J. Stoeckert Jr., Gerard D. Schellenberg, Li-San Wang
@@ -108,16 +139,24 @@
 
 2015
 
-    Jiang YZ, Manduchi E, Stoeckert CJ Jr, Davies PF. Arterial endothelial methylome: differential DNA methylation in athero-susceptible disturbed flow regions in vivo. BMC Genomics. 2015 Jul 7;16:506.
+    Jiang YZ, Manduchi E, Stoeckert CJ Jr, Davies PF. 
+    Arterial endothelial methylome: differential DNA methylation in athero-susceptible disturbed flow regions in vivo. 
+    BMC Genomics. 2015 Jul 7;16:506.
     PMID: 26148682 PMCID: PMC4492093
 
-    Gutierrez JB, Harb OS, Zheng J, Tisch DJ, Charlebois ED, Stoeckert CJ Jr, Sullivan SA. A Framework for Global Collaborative Data Management for Malaria Research. Am J Trop Med Hyg. 2015 Aug 10. pii: 15-0003.
+    Gutierrez JB, Harb OS, Zheng J, Tisch DJ, Charlebois ED, Stoeckert CJ Jr, Sullivan SA. 
+    A Framework for Global Collaborative Data Management for Malaria Research. 
+    Am J Trop Med Hyg. 2015 Aug 10. pii: 15-0003.
     PMID: 26259944
 
-    Xiang Z, Zheng J, Lin Y, He Y. Ontorat: automatic generation of new ontology terms, annotations, and axioms based on ontology design patterns. J Biomed Semantics. 2015 Jan 9;6:4.
+    Xiang Z, Zheng J, Lin Y, He Y. 
+    Ontorat: automatic generation of new ontology terms, annotations, and axioms based on ontology design patterns. 
+    J Biomed Semantics. 2015 Jan 9;6:4.
     PMID: 25785185 PMCID: PMC4362828
 
-    Rocca-Serra P, Walls R, Parnell J, Gallery R, Zheng J, Sansone SA, Gonzalez-Beltran A. Modeling a microbial community and biodiversity assay with OBO Foundry ontologies: the interoperability gains of a modular approach. Database (Oxford). 2015 Jan 28;2015. pii: bau132.
+    Rocca-Serra P, Walls R, Parnell J, Gallery R, Zheng J, Sansone SA, Gonzalez-Beltran A. 
+    Modeling a microbial community and biodiversity assay with OBO Foundry ontologies: the interoperability gains of a modular approach. 
+    Database (Oxford). 2015 Jan 28;2015. pii: bau132.
     PMID: 25632945 PMCID: PMC4309925
 
 2014
