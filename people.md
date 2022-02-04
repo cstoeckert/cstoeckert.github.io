@@ -4,7 +4,6 @@
 
 | Faculty / Academic | Position |
 |---------------------------|----------------------------:|
-| Gregory Grant |	Research Associate Professor, Genetics |
 | Christian Stoeckert 	P.I. | Research Professor, Genetics |
 | Emily Greenfest-Allen |	Senior Research Investigator 	|
 | Jie Zheng |	Senior Research Investigator |
@@ -13,18 +12,16 @@
 |---------------------------|----------------------------:|
 | Ana Barreto |	Database Administrator 	|
 | John Brestelli | Application Developer Sr. 	|
-| Brian Brunk |	EuPathDB Project Manager |
-| Ja'Shon Cade |	Programmer Analyst 	|
+| Brian Brunk |	VEuPathDB Project Manager |
 | Ryan Doherty |	Senior Programmer Analyst |
 | Steve Fischer |	Senior Programmer Analyst |
 | Bindu Gajria |	Senior Programmer Analyst |
 | Omar Harb |	Biology Research Specialist |
 | Sufen Hu |	Programmer Analyst 	|
-| John Iodice |	Bioinformatics Software Engineer 	|
-| Cris Lawrence |	Senior Web Developer 	|
+| Tom Hutchinson | Software Engineer |
+| John Iodice |	Bioinformatics Software Engineer |
+| John Judkins | Ontlogist |
 | Wei Li 	Programmer | Analyst |
-| Elisabetta Manduchi |	Manager, Research Project B |
-| Deborah Pinney |	Application Developer Sr. |
 
 ![CBIL picnic](https://www.cbil.upenn.edu//sites/default/files/picnic.png)
 
@@ -32,6 +29,9 @@ Pictured from left to right: Sufen Hu, Tiziana Sanavia, Elisabetta Manduchi, Chr
 Jie Zheng, Cris Lawrence, Deborah Pinney, Omar Harb, Bindu Gajria, John Iodice, John Brestelli
 
 ## Alumni	
+| Faculty / Academic | Position |
+|---------------------------|----------------------------:|
+| Gregory Grant |	Research Associate Professor, Genetics |
 
 | Student    |Advisor(s) |	Dates |	Project / Thesis |	Current Position |
 |------------|-----------|--------|------------------|------------------:|
@@ -48,3 +48,13 @@ Jonathan Schug |	Max Mintz and Christian Stoeckert |	1995 - 2005 |	Integrating g
 | Shailesh Date |	Christian Stoeckert, David Roos |	2004 - 2008 |	Plasmodium falciparum interactome, plasmoMAP |	Scientist at Genentech |
 | Hongxian He |	Christian Stoeckert |	2002 - 2005 |	Stem Cell Gene Anatomy Project (SCGAP), RNA Abundance Database (RAD) |	Technical Supervisor at DuPont
 | Matt Mailman | Christian Stoeckert |	2001 - 2003 |	PlasmoDB, RNA Abundance Database |	Director of Integrative Solutions, Neuroscience at Johnson & Johnson |
+
+| Staff | Position |
+|---------------------------|----------------------------:|
+| Ja'Shon Cade |	Programmer Analyst 	|
+| Hayden Freedman | Programmer Analyst |
+| Cris Lawrence |	Senior Web Developer 	|
+| Elisabetta Manduchi |	Manager, Research Project B |
+| Mark Miller | Ontologist |
+| Deborah Pinney |	Application Developer Sr. |
+
