@@ -20,7 +20,7 @@
 | Sufen Hu |	Programmer Analyst 	|
 | Tom Hutchinson | Software Engineer |
 | John Iodice |	Bioinformatics Software Engineer |
-| John Judkins | Ontlogist |
+| John Judkins | Ontologist |
 | Wei Li 	Programmer | Analyst |
 
 ![CBIL picnic](https://www.cbil.upenn.edu//sites/default/files/picnic.png)
