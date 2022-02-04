@@ -29,6 +29,7 @@ Pictured from left to right: Sufen Hu, Tiziana Sanavia, Elisabetta Manduchi, Chr
 Jie Zheng, Cris Lawrence, Deborah Pinney, Omar Harb, Bindu Gajria, John Iodice, John Brestelli
 
 ## Alumni	
+
 | Faculty / Academic | Position |
 |---------------------------|----------------------------:|
 | Gregory Grant |	Research Associate Professor, Genetics |
