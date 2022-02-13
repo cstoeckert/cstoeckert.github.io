@@ -55,7 +55,7 @@ Jonathan Schug |	Max Mintz and Christian Stoeckert |	1995 - 2005 |	Integrating g
 | Ja'Shon Cade |	Programmer Analyst 	|
 | Hayden Freedman | Programmer Analyst |
 | Cris Lawrence |	Senior Web Developer 	|
-| Elisabetta Manduchi |	Manager, Research Project B |
+| [Elisabetta Manduchi](http://manduchi.org) |	Research Project Manager, Senior Bioinformatics Scientist |
 | Mark Miller | Ontologist |
 | Deborah Pinney |	Application Developer Sr. |
 
