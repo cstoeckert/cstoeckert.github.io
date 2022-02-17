@@ -4,7 +4,7 @@
 
 | Faculty / Academic | Position |
 |---------------------------|----------------------------:|
-| Christian Stoeckert 	P.I. | Research Professor, Genetics |
+| [Christian Stoeckert](https://www.med.upenn.edu/apps/faculty/index.php/p6403) | Research Professor, Genetics |
 | Emily Greenfest-Allen |	Senior Research Investigator 	|
 | Jie Zheng |	Senior Research Investigator |
 
