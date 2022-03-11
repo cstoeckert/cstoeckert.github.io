@@ -161,62 +161,95 @@
 
 2014
 
-    Zheng J, Xiang Z, Stoeckert CJ Jr, He Y. Ontodog: A web-based ontology community view generation tool. Bioinformatics. 2014 Jan 9. [Epub ahead of print]
+    Zheng J, Xiang Z, Stoeckert CJ Jr, He Y. 
+    Ontodog: A web-based ontology community view generation tool. Bioinformatics. 2014 Jan 9. [Epub ahead of print]
     PMID: 24413522
 
-    Davies PF, Manduchi E, Stoeckert CJ, Jiménez JM, Jiang YZ. Emerging topic: Flow-related epigenetic regulation of endothelial phenotype through DNA methylation. Vascul Pharmacol. 2014 May 27. pii: S1537-1891(14)00094-9.
+    Davies PF, Manduchi E, Stoeckert CJ, Jiménez JM, Jiang YZ. 
+    Emerging topic: Flow-related epigenetic regulation of endothelial phenotype through DNA methylation. Vascul Pharmacol. 2014 May 27. pii: S1537-1891(14)00094-9.
     PMID: 24874278
 
-    Dugan VG, Emrich SJ, Giraldo-Calderón GI, Harb OS, Newman RM, Pickett BE, Schriml LM, Stockwell TB, Stoeckert CJ Jr, Sullivan DE, Singh I, Ward DV, Yao A, Zheng J, Barrett T, Birren B, Brinkac L, Bruno VM, Caler E, Chapman S, Collins FH, Cuomo CA, Di Francesco V, Durkin S, Eppinger M, Feldgarden M, Fraser C, Fricke WF, Giovanni M, Henn MR, Hine E, Hotopp JD, Karsch-Mizrachi I, Kissinger JC, Lee EM, Mathur P, Mongodin EF, Murphy CI, Myers G, Neafsey DE, Nelson KE, Nierman WC, Puzak J, Rasko D, Roos DS, Sadzewicz L, Silva JC, Sobral B, Squires RB, Stevens RL, Tallon L, Tettelin H, Wentworth D, White O, Will R, Wortman J, Zhang Y, Scheuermann RH. Standardized metadata for human pathogen/vector genomic sequences. PLoS One. 2014 Jun 17;9(6):e99979.
+    Dugan VG, Emrich SJ, Giraldo-Calderón GI, Harb OS, Newman RM, Pickett BE, Schriml LM, Stockwell TB, Stoeckert CJ Jr, Sullivan DE, Singh I, Ward DV, Yao A, Zheng J, Barrett T, Birren B, Brinkac L, Bruno VM, Caler E, Chapman S, Collins FH, Cuomo CA, Di Francesco V, Durkin S, Eppinger M, Feldgarden M, Fraser C, Fricke WF, Giovanni M, Henn MR, Hine E, Hotopp JD, Karsch-Mizrachi I, Kissinger JC, Lee EM, Mathur P, Mongodin EF, Murphy CI, Myers G, Neafsey DE, Nelson KE, Nierman WC, Puzak J, Rasko D, Roos DS, Sadzewicz L, Silva JC, Sobral B, Squires RB, Stevens RL, Tallon L, Tettelin H, Wentworth D, White O, Will R, Wortman J, Zhang Y, Scheuermann RH. 
+    Standardized metadata for human pathogen/vector genomic sequences. PLoS One. 2014 Jun 17;9(6):e99979.
     PMID: 24936976 PMCID: PMC4061050
 
-    Osipovich AB, Long Q, Manduchi E, Gangula R, Hipkens SB, Schneider J, Okubo T, Stoeckert CJ Jr, Takada S, Magnuson MA. Insm1 promotes endocrine cell differentiation by modulating the expression of a network of genes that includes Neurog3 and Ripply3. Development. 2014 Aug;141(15):2939-49.
+    Osipovich AB, Long Q, Manduchi E, Gangula R, Hipkens SB, Schneider J, Okubo T, Stoeckert CJ Jr, Takada S, Magnuson MA. 
+    Insm1 promotes endocrine cell differentiation by modulating the expression of a network of genes that includes Neurog3 and Ripply3. Development. 2014 Aug;141(15):2939-49.
     PMID: 25053427
 
-    Sarntivijai S, Lin Y, Xiang Z, Meehan TF, Diehl AD, Vempati UD, Schürer SC, Pang C, Malone J, Parkinson H, Liu Y, Takatsuki T, Saijo K, Masuya H, Nakamura Y, Brush MH, Haendel MA, Zheng J, Stoeckert CJ, Peters B, Mungall CJ, Carey TE, States DJ, Athey BD, He Y. CLO: The cell line ontology. J Biomed Semantics. 2014 Aug 13;5:37.
+    Sarntivijai S, Lin Y, Xiang Z, Meehan TF, Diehl AD, Vempati UD, Schürer SC, Pang C, Malone J, Parkinson H, Liu Y, Takatsuki T, Saijo K, Masuya H, Nakamura Y, Brush MH, Haendel MA, Zheng J, Stoeckert CJ, Peters B, Mungall CJ, Carey TE, States DJ, Athey BD, He Y. 
+    CLO: The cell line ontology. J Biomed Semantics. 2014 Aug 13;5:37.
     PMID: 25852852 PMCID: PMC4387853
 
 2013
 
-    Aurrecoechea C, Barreto A, Brestelli J, Brunk BP, Cade S, Doherty R, Fischer S, Gajria B, Gao X, Gingle A, Grant G, Harb OS, Heiges M, Hu S, Iodice J, Kissinger JC, Kraemer ET, Li W, Pinney DF, Pitts B, Roos DS, Srinivasamoorthy G, Stoeckert CJ Jr, Wang H, Warrenfeltz S. EuPathDB: The Eukaryotic Pathogen database. Nucleic Acids Res. 2013 Jan 1;41(D1):D684-91.
+    Aurrecoechea C, Barreto A, Brestelli J, Brunk BP, Cade S, Doherty R, Fischer S, Gajria B, Gao X, Gingle A, Grant G, Harb OS, Heiges M, Hu S, Iodice J, Kissinger JC, Kraemer ET, Li W, Pinney DF, Pitts B, Roos DS, Srinivasamoorthy G, Stoeckert CJ Jr, Wang H, Warrenfeltz S. 
+    EuPathDB: The Eukaryotic Pathogen database. Nucleic Acids Res. 2013 Jan 1;41(D1):D684-91.
     PMID: 23175615
 
-    Greenfest-Allen E, Malik J, Palis J, Stoeckert CJ Jr. Stat and interferon genes identified by network analysis differentially regulate primitive and definitive erythropoiesis. BMC Syst Biol. 2013 May 15;7:38.
+    Greenfest-Allen E, Malik J, Palis J, Stoeckert CJ Jr. 
+    Stat and interferon genes identified by network analysis differentially regulate primitive and definitive erythropoiesis. BMC Syst Biol. 2013 May 15;7:38.
     PMID: 23675896
 
-    Kingsley PD, Greenfest-Allen E, Frame JM, Bushnell TP, Malik J, McGrath KE, Stoeckert CJ, Palis J. Ontogeny of erythroid gene expression. Blood. 2013 Feb 7;121(6):e5-e13.
+    Kingsley PD, Greenfest-Allen E, Frame JM, Bushnell TP, Malik J, McGrath KE, Stoeckert CJ, Palis J. 
+    Ontogeny of erythroid gene expression. Blood. 2013 Feb 7;121(6):e5-e13.
     PMID: 23243273
 
 2012
 
-    Parikh PP, Zheng J, Logan-Klumper F, Stoeckert CJ Jr, Louis C, Topalis P, Protasio AV, Sheth AP, Carrington M, Berriman M, Sahoo SS. The Ontology for Parasite Lifecycle (OPL): towards a consistent vocabulary of lifecycle stages in parasitic organisms. J Biomed Semantics. 2012 May 23;3(1):5. [Epub ahead of print] PubMed PMID: 22621763.
+    Parikh PP, Zheng J, Logan-Klumper F, Stoeckert CJ Jr, Louis C, Topalis P, Protasio AV, Sheth AP, Carrington M, Berriman M, Sahoo SS. 
+    The Ontology for Parasite Lifecycle (OPL): towards a consistent vocabulary of lifecycle stages in parasitic organisms. J Biomed Semantics. 2012 May 23;3(1):5. [Epub ahead of print] 
+    PubMed PMID: 22621763.
 
-    Hald J, Galbo T, Rescan C, Radzikowski L, Sprinkel AE, Heimberg H, Ahnfelt-Rønne J, Jensen J, Scharfmann R, Gradwohl G, Kaestner KH, Stoeckert C Jr,
-    Jensen JN, Madsen OD. Pancreatic islet and progenitor cell surface markers with cell sorting potential. Diabetologia. 2012 Jan;55(1):154-65. Epub 2011 Sep 23. PubMed PMID: 21947380.
+    Hald J, Galbo T, Rescan C, Radzikowski L, Sprinkel AE, Heimberg H, Ahnfelt-Rønne J, Jensen J, Scharfmann R, Gradwohl G, Kaestner KH, Stoeckert C Jr, Jensen JN, Madsen OD. 
+    Pancreatic islet and progenitor cell surface markers with cell sorting potential. Diabetologia. 2012 Jan;55(1):154-65. Epub 2011 Sep 23. PubMed 
+    PMID: 21947380.
 
-    Stajich JE, Harris T, Brunk BP, Brestelli J, Fischer S, Harb OS, Kissinger JC, Li W, Nayak V, Pinney DF, Stoeckert CJ Jr, Roos DS. FungiDB: an integrated functional genomics database for fungi. Nucleic Acids Res. 2012 Jan;40(Database issue):D675-81. Epub 2011 Nov 7. PubMed PMID: 22064857; PubMed Central PMCID: PMC3245123.
+    Stajich JE, Harris T, Brunk BP, Brestelli J, Fischer S, Harb OS, Kissinger JC, Li W, Nayak V, Pinney DF, Stoeckert CJ Jr, Roos DS. 
+    FungiDB: an integrated functional genomics database for fungi. Nucleic Acids Res. 2012 Jan;40(Database issue):D675-81. Epub 2011 Nov 7. 
+    PubMed PMID: 22064857; PubMed Central PMCID: PMC3245123.
 
-    Choi E, Kraus MR-C, Lemaire L, Yoshimoto M, Vemula S, Potter LA, Manduchi E, Stoeckert CJ Jr, Grapin-Botton A, Magnuson MA. Dual lineage-specific expression of Sox17 during mouse embryogenesis. Stem Cells. 2012 Aug 3. doi: 10.1002/stem.1192 PMID: 22865702
+    Choi E, Kraus MR-C, Lemaire L, Yoshimoto M, Vemula S, Potter LA, Manduchi E, Stoeckert CJ Jr, Grapin-Botton A, Magnuson MA. 
+    Dual lineage-specific expression of Sox17 during mouse embryogenesis. Stem Cells. 2012 Aug 3. doi: 10.1002/stem.1192 
+    PMID: 22865702
 
 2011
 
-    Zheng J, Stoyanovich J, Manduchi E, Liu J, Stoeckert CJ Jr. (2011) AnnotCompute: annotation-based exploration and meta-analysis of genomics experiments. Database (Oxford). 2011 Dec 21;2011:bar045. PMID: 22190598
+    Zheng J, Stoyanovich J, Manduchi E, Liu J, Stoeckert CJ Jr. (2011) 
+    AnnotCompute: annotation-based exploration and meta-analysis of genomics experiments. Database (Oxford). 2011 Dec 21;2011:bar045. 
+    PMID: 22190598
 
-    Dorrell C, Schug J, Lin CF, Canaday PS, Fox AJ, Smirnova O, Bonnah R, Streeter PR, Stoeckert CJ Jr, Kaestner KH, Grompe M. (2011) Transcriptomes of the major human pancreatic cell types. Diabetologia. 2011 Nov;54(11):2832-44. Epub 2011 Sep 1. PMID: 21882062
+    Dorrell C, Schug J, Lin CF, Canaday PS, Fox AJ, Smirnova O, Bonnah R, Streeter PR, Stoeckert CJ Jr, Kaestner KH, Grompe M. (2011) 
+    Transcriptomes of the major human pancreatic cell types. Diabetologia. 2011 Nov;54(11):2832-44. Epub 2011 Sep 1. 
+    PMID: 21882062
 
-    Grant GR, Farkas MH, Pizarro AD, Lahens NF, Schug J, Brunk BP, Stoeckert CJ, Hogenesch JB, Pierce EA. (2011) Comparative analysis of RNA-Seq alignment algorithms and the RNA-Seq unified mapper (RUM). Bioinformatics. 2011 Sep 15;27(18):2518-28. Epub 2011 Jul 19. PMID: 21775302
+    Grant GR, Farkas MH, Pizarro AD, Lahens NF, Schug J, Brunk BP, Stoeckert CJ, Hogenesch JB, Pierce EA. (2011) 
+    Comparative analysis of RNA-Seq alignment algorithms and the RNA-Seq unified mapper (RUM). Bioinformatics. 2011 Sep 15;27(18):2518-28. Epub 2011 Jul 19. 
+    PMID: 21775302
 
-    Fischer S, Brunk BP, Chen F, Gao X, Harb OS, Iodice JB, Shanmugam D, Roos DS, Stoeckert CJ Jr. (2011) Using OrthoMCL to assign proteins to OrthoMCL-DB groups or to cluster proteomes into new ortholog groups. Curr Protoc Bioinformatics. 2011 Sep;Chapter 6:Unit 6.12.1-19. PMID: 21901743
+    Fischer S, Brunk BP, Chen F, Gao X, Harb OS, Iodice JB, Shanmugam D, Roos DS, Stoeckert CJ Jr. (2011) 
+    Using OrthoMCL to assign proteins to OrthoMCL-DB groups or to cluster proteomes into new ortholog groups. Curr Protoc Bioinformatics. 2011 Sep;Chapter 6:Unit 6.12.1-19. 
+    PMID: 21901743
 
-    Fischer S, Aurrecoechea C, Brunk BP, Gao X, Harb OS, Kraemer ET, Pennington C, Treatman C, Kissinger JC, Roos DS, Stoeckert CJ. (2011) The strategies WDK: a graphical search interface and web development kit for functional genomics databases. Database (Oxford). 2011 Jun 23;2011:bar027. PMID: 21705364
+    Fischer S, Aurrecoechea C, Brunk BP, Gao X, Harb OS, Kraemer ET, Pennington C, Treatman C, Kissinger JC, Roos DS, Stoeckert CJ. (2011) 
+    The strategies WDK: a graphical search interface and web development kit for functional genomics databases. Database (Oxford). 2011 Jun 23;2011:bar027. 
+    PMID: 21705364
 
-    Civelek M, Manduchi E, Riley RJ, Stoeckert CJ Jr, Davies PF (2011) Coronary artery endothelial transcriptome in vivo: identification of endoplasmic reticulum stress and enhanced reactive oxygen species by gene connectivity network analysis. Circ Cardiovasc Genet. 2011 Jun 1;4(3):243-52. PMID: 21493819
+    Civelek M, Manduchi E, Riley RJ, Stoeckert CJ Jr, Davies PF (2011) 
+    Coronary artery endothelial transcriptome in vivo: identification of endoplasmic reticulum stress and enhanced reactive oxygen species by gene connectivity network analysis. Circ Cardiovasc Genet. 2011 Jun 1;4(3):243-52. 
+    PMID: 21493819
 
-    Chervitz SA, Deutsch EW, Field D, Parkinson H, Quackenbush J, Rocca-Serra P, Sansone SA, Stoeckert CJ Jr, Taylor CF, Taylor R, Ball CA. (2011) Data standards for Omics data: the basis of data sharing and reuse. Methods Mol Biol. 2011;719:31-69. PMID: 21370078
+    Chervitz SA, Deutsch EW, Field D, Parkinson H, Quackenbush J, Rocca-Serra P, Sansone SA, Stoeckert CJ Jr, Taylor CF, Taylor R, Ball CA. (2011) 
+    Data standards for Omics data: the basis of data sharing and reuse. Methods Mol Biol. 2011;719:31-69. 
+    PMID: 21370078
 
-    Civelek M, Manduchi E, Grant GR, Stoeckert CJ Jr, Davies PF (2011) Discovery approaches to UPR in athero-susceptible endothelium in vivo. Methods Enzymol. 2011;489:109-26.PMID: 21266227
+    Civelek M, Manduchi E, Grant GR, Stoeckert CJ Jr, Davies PF (2011) 
+    Discovery approaches to UPR in athero-susceptible endothelium in vivo. Methods Enzymol. 2011;489:109-26.
+    PMID: 21266227
 
-    Aurrecoechea C, Barreto A, Brestelli J, Brunk BP, Caler EV, Fischer S, Gajria B, Gao X, Gingle A, Grant G, Harb OS, Heiges M, Iodice J, Kissinger JC, Kraemer ET, Li W, Nayak V, Pennington C, Pinney DF, Pitts B, Roos DS, Srinivasamoorthy G, Stoeckert CJ Jr, Treatman C, Wang H. (2011) AmoebaDB and MicrosporidiaDB: functional genomic resources for Amoebozoa and Microsporidia species. Nucleic Acids Res. 2011 Jan;39(Database issue):D612-9. PMID: 20974635
+    Aurrecoechea C, Barreto A, Brestelli J, Brunk BP, Caler EV, Fischer S, Gajria B, Gao X, Gingle A, Grant G, Harb OS, Heiges M, Iodice J, Kissinger JC, Kraemer ET, Li W, Nayak V, Pennington C, Pinney DF, Pitts B, Roos DS, Srinivasamoorthy G, Stoeckert CJ Jr, Treatman C, Wang H. (2011) 
+    AmoebaDB and MicrosporidiaDB: functional genomic resources for Amoebozoa and Microsporidia species. Nucleic Acids Res. 2011 Jan;39(Database issue):D612-9. 
+    PMID: 20974635
 
 2010
 
