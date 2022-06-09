@@ -1,12 +1,20 @@
 ## CBIL News
 
+**New release of the TURBO ontology**
+Thursday, June 9, 2022
+The TURBO ontology supporting the Semantic Engine application has been updated and refactored using the ODK. Details of the new release are [here](https://github.com/PennTURBO/turbo-ontology/releases/tag/2022-05-09).
+
+**New release of the VEuPathDB ontology**
+Thursday, June 8, 2022
+A new release is available of the VEuPathDB ontology supporting the VEuPathDB, ClinEpiDB, and MicrobiomeDB projects. Details of the new release are [here](https://github.com/VEuPathDB-ontology/VEuPathDB-ontology/releases/tag/2022-06-08).
+
 **CBIL site content moving to GitHub**
 Thursday, January 6, 2022 - 10:01
 Selected content from the www.cbil.upenn.edu site will be migrated to https://cstoeckert.github.io./ over the course of 2022. Once the migration is complete, the original CBIL site will be shut down.
 
 **New release of OBIB**
 Monday, August 9, 2021 - 11:45
-We made a new release of the Ontology for Biobanking (http://obofoundry.org/ontology/obib.html) earlier this year (2021-02-02). The release includes new imports from OBI, updates of deprecated terms, new terms and fixes including those fixes identified by the OBO Foundry dashboard.
+We made a new release of the [Ontology for Biobanking](http://obofoundry.org/ontology/obib.html) earlier this year (2021-02-02). The release includes new imports from OBI, updates of deprecated terms, new terms and fixes including those fixes identified by the OBO Foundry dashboard.
 
 **A novel tool for standardizing clinical data in a semantically rich model**
 Monday, January 4, 2021 - 11:25
