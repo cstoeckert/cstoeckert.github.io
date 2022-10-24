@@ -16,4 +16,4 @@ CBIL is directed by Chris Stoeckert who is faculty in the Department of Genetics
 ## [Publications](publications.md)
 ## [Databases](databases.md)
 ## [Tools](tools.md)
-## [Downloads](https://www.cbil.upenn.edu/downloads/)
+## [Downloads](past-projects/ContentNotAvailable.md)
