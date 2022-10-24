@@ -1,5 +1,5 @@
 # CBIL Databases
-[ErythronDB](https://www.cbil.upenn.edu/ErythronDB/)
+[ErythronDB](https://www.cbil.upenn.edu/ErythronDB_beta/app)
 
 [VEuPathDB](https://veupathdb.org/veupathdb/app)
 
