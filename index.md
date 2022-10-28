@@ -16,4 +16,4 @@ CBIL is directed by Chris Stoeckert who is faculty in the Department of Genetics
 ## [Publications](publications.md)
 ## [Databases](databases.md)
 ## [Tools](tools.md)
-## [Downloads](past-projects/ContentNotAvailable.md)
+## [Downloads (this is no longer available)](past-projects/ContentNotAvailable.md)
