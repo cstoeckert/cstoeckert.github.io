@@ -28,4 +28,4 @@
 
 [Un-Paired Series Interrogator for a Dampening Effect (UPSIDE)](http://www.cbil.upenn.edu/UPSIDE/)
 
-[22q and You newsletters (Fall 1996-Spring 1999)](past-projects/ContentNotAvailable.md)
+[22q and You newsletters (This is no longer available)](past-projects/ContentNotAvailable.md)
