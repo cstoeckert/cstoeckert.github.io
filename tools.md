@@ -24,7 +24,7 @@
 
 [Transcription Element Search System (TESS)](past-projects/TESS.md)
 
-[t-statistics, p-values, and Westfall and Young step-down method (tpWY)](http://www.cbil.upenn.edu/tpWY/)
+[t-statistics, p-values, and Westfall and Young step-down method (tpWY - This is no longer available)](past-projects/ContentNotAvailable.md)
 
 [Un-Paired Series Interrogator for a Dampening Effect (UPSIDE)](http://www.cbil.upenn.edu/UPSIDE/)
 
