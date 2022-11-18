@@ -23,7 +23,7 @@
 | John Judkins | Ontologist |
 | Wei Li 	Programmer | Analyst |
 
-![CBIL picnic](https://www.cbil.upenn.edu//sites/default/files/picnic.png)
+![CBIL picnic](https://www.cbil.upenn.edu/sites/default/files/picnic.png)
 
 Pictured from left to right: Sufen Hu, Tiziana Sanavia, Elisabetta Manduchi, Christian Stoeckert, Emily Greenfest-Allen,
 Jie Zheng, Cris Lawrence, Deborah Pinney, Omar Harb, Bindu Gajria, John Iodice, John Brestelli
