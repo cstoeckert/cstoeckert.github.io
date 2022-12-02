@@ -23,10 +23,9 @@
 | John Judkins | Ontologist |
 | Wei Li 	Programmer | Analyst |
 
-![CBIL picnic](https://www.cbil.upenn.edu/sites/default/files/picnic.png)
+![CBIL retirement party Nov. 2022](stoeckert_retirement_11_10_22.jpg)
 
-Pictured from left to right: Sufen Hu, Tiziana Sanavia, Elisabetta Manduchi, Christian Stoeckert, Emily Greenfest-Allen,
-Jie Zheng, Cris Lawrence, Deborah Pinney, Omar Harb, Bindu Gajria, John Iodice, John Brestelli
+Pictured from left to right: Sufen Hu, John Brestelli, Emily Greenfest-Allen, Bindu Gajria, Angel Pizaro, Jie Zheng, Chris Stoeckert, Deborah Pinney, Steve Fischer, Jonathan Schug, John Iodice, Cris Lawrence, Elisabetta Manduchi, Greg Grant.  
 
 ## Alumni	
 
