@@ -1,0 +1,2 @@
+# Stem Cell Genome Anatomy Projects (SCGAP)
+This project was one component of the Stem Cell Genome Anatomy Projects (SCGAP) supported by the National Institute of Diabetes & Digestive & Kidney Disease (NIDDK). The focus of the project was on the elucidation of the mechanisms that regulate the establishment of the hematopoietic stem and progenitor cell hierarchy in the human system. Our interdisciplinary team consisted of six individual laboratories. 
