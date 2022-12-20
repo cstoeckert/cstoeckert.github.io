@@ -18,7 +18,7 @@
 
 [Microarray Gene Expression Simulator (GSIM - This is no longer available)](past-projects/ContentNotAvailable.md)
 
-[Multiple Sample Analysis (MSA)](http://www.cbil.upenn.edu/MSA/)
+[Multiple Sample Analysis (MSA)](past-projects/MSA.md)
 
 [Significance Testing for Aberrant Copy-Number (STAC)](past-projects/STAC.md)
 
@@ -26,6 +26,6 @@
 
 [t-statistics, p-values, and Westfall and Young step-down method (tpWY - This is no longer available)](past-projects/ContentNotAvailable.md)
 
-[Un-Paired Series Interrogator for a Dampening Effect (UPSIDE)](http://www.cbil.upenn.edu/UPSIDE/)
+[Un-Paired Series Interrogator for a Dampening Effect (UPSIDE - This is no longer available)](past-projects/ContentNotAvailable.md)
 
 [22q and You newsletters (This is no longer available)](past-projects/ContentNotAvailable.md)
