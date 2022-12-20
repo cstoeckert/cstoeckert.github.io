@@ -16,11 +16,11 @@
 
 [EpoDB](http://www.cbil.upenn.edu/EpoDB/)
 
-[GAIA](http://www.cbil.upenn.edu/gaia2/)
+[GAIA - This is no longer available](past-projects/ContentNotAvailable.md)
 
-[LENS (Linking ESTs and their associated Name Space)](http://www.cbil.upenn.edu/LENS/)
+[LENS (Linking ESTs and their associated Name Space)- This is no longer available](past-projects/ContentNotAvailable.md)
 
-[ParaDBs:Parasite Databases of Clustered ESTs](http://www.cbil.upenn.edu/ParaDBs/)
+[ParaDBs:Parasite Databases of Clustered ESTs - This is no longer available](past-projects/ContentNotAvailable.md)
 
 [plasmoMAP: The functional interactome of Plasmodium](http://www.cbil.upenn.edu/plasmoMAP/)
 
