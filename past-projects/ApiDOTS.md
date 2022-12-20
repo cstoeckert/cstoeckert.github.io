@@ -1,0 +1,4 @@
+# ApiDOTS
+ApiDots was a database integrating mRNA/EST sequences from numerous Apicomplexan parasites. ESTs and mRNAs were clustered and further assembled to generate consensus sequences. These consensus sequences were then subjected to database searches against protein sequences and protein domain sequences. The underlying relational structure of this database allowed researchers to analyze these data and pose biologically interesting questions.
+## Reference
+Li, L., B.P. Brunk, J.C. Kissinger, D. Pape, P. Tang, R. Cole, J. Martin, T. Wylie, M. Dante, S.J. Fogarty, D.K. Howe, P. Liberator, C. Diaz, J. Anderson, M. White, M.E. Jerone, E.A. Johnson, J.A. Radke, C.J. Stoeckert Jr., R.H. Waterson, S.W. Clifton, D.S. Roos and L.D. Sibley. 2003. Gene discovery in the Apicomplexa as revealed by EST sequencing and assembly of a comparative gene database. Genome Res. 13(3):443-54. 
