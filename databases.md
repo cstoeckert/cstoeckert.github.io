@@ -26,4 +26,4 @@
 
 [RNA Abundance Database (RAD)](past-projects/RAD.md)
 
-[Stem Cell Genome Anatomy Projects (SCGAP)](http://www.cbil.upenn.edu/SCGAP/)
+[Stem Cell Genome Anatomy Projects (SCGAP)](past-projects/SCGAP.md)
