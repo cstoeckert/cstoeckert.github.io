@@ -12,11 +12,11 @@
 [Significance Tester for the Accumulation of Reads (STAR - This is no longer available)](past-projects/ContentNotAvailable.md)
 	
 ## Past projects
-[ApiDots](http://www.cbil.upenn.edu/apidots/)
+[ApiDots](past-projects/ApiDOTS.md)
 
 [Clustering of Genes into Regulons using Integrated Modeling (COGRIM)](past-projects/COGRIM.md)
 
-[Microarray Gene Expression Simulator (GSIM)](http://www.cbil.upenn.edu/expression_simulator/)
+[Microarray Gene Expression Simulator (GSIM - This is no longer available)](past-projects/ContentNotAvailable.md)
 
 [Multiple Sample Analysis (MSA)](http://www.cbil.upenn.edu/MSA/)
 
