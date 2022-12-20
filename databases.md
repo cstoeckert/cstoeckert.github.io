@@ -14,7 +14,7 @@
 
 [EPConDB](past-projects/EPConDB.md)
 
-[EpoDB](http://www.cbil.upenn.edu/EpoDB/)
+[EpoDB](past-projects/EpoDB.md)
 
 [GAIA - This is no longer available](past-projects/ContentNotAvailable.md)
 
@@ -22,7 +22,7 @@
 
 [ParaDBs:Parasite Databases of Clustered ESTs - This is no longer available](past-projects/ContentNotAvailable.md)
 
-[plasmoMAP: The functional interactome of Plasmodium](http://www.cbil.upenn.edu/plasmoMAP/)
+[plasmoMAP: The functional interactome of Plasmodium](past-projects/plasmoMAP.md)
 
 [RNA Abundance Database (RAD)](past-projects/RAD.md)
 
