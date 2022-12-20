@@ -1,5 +1,9 @@
 ## CBIL News
 
+**CBIL site migration to GitHub complete**
+Tuesday, December 20, 2022
+Selected content from the www.cbil.upenn.edu site has been migrated to https://cstoeckert.github.io./ Links to tools and databases now point to summaries or a Content Not Available page. The original CBIL site has been repointed to the GitHub site and the CBIL server hosting the web pages for projects will be shut down later this week.
+
 **New release of the TURBO ontology**
 Thursday, June 9, 2022
 The TURBO ontology supporting the Semantic Engine application has been updated and refactored using the ODK. Details of the new release are [here](https://github.com/PennTURBO/turbo-ontology/releases/tag/2022-05-09).
