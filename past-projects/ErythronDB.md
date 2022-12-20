@@ -27,7 +27,7 @@ ErythronDB was developed by a team of researchers at the University of Pennsylva
 - Using a human EPO-dependent UT-7epo-E erythroid progenitor cell model, phospho-PTM LC-MS/MS was employed to document EPOR/JAK2 regulated phospho-PTM events. Experiments involved a short-term EPO challenge (after first withdrawing EPO from the UT-7epo-E cells) after which total cellular protein was then extracted, and hydrolyzed using trypsin or Glu-C. Peptides modified at p-Y or p-TPP motifs were the retrieved via immunoadsorption and LC-MS/MS employed to define peptide sequences and sites and levels of EPO-mediated phosphorylation. Data are also available for PTM-targets of hematide exposure.
 - Organism: Hs
 - Submitter: Don M. Wojchowski
-- Primary publication: Held MA et al. 2020. Phospho-proteomic discovery of novel signal transducers including thioredoxin-interacting protein as mediators of erythropoieti
+- Primary publication: Held MA et al. 2020. Phospho-proteomic discovery of novel signal transducers including thioredoxin-interacting protein as mediators of erythropoietin-dependent human erythropoiesis. Exp Hematol. 2020 Apr;84:29-44. PMID: 32259549 
 
 ## To Cite this Resource
 
