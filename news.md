@@ -1,5 +1,9 @@
 ## CBIL News
 
+**ErythronDB website and database available as docker build**
+Thursday, February 9, 2023
+The original ErythronDB website was retired at the end of 2022. The site can be built using code available [here](https://github.com/ErythronDB/erythrondb-docker).
+
 **CBIL site migration to GitHub complete**
 Tuesday, December 20, 2022
 Selected content from the www.cbil.upenn.edu site has been migrated to https://cstoeckert.github.io./ Links to tools and databases now point to summaries or a Content Not Available page. The original CBIL site has been repointed to the GitHub site and the CBIL server hosting the web pages for projects will be shut down later this week.
