@@ -1,6 +1,6 @@
 # CBIL People
 
-## Current 
+## 2022 version. (CBIL shut down at the end of that year) 
 
 | Faculty / Academic | Position |
 |---------------------------|----------------------------:|
