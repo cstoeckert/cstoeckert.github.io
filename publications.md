@@ -1,4 +1,11 @@
 ## CBIL Publications
+2023
+
+    Greenfest-Allen E, Valladares O, Kuksa PP, Gangadharan P, Lee WP, Cifello J, Katanic Z, Kuzma AB, Wheeler N, Bush WS, Leung YY, Schellenberg G, Stoeckert CJ Jr, Wang LS.
+    NIAGADS Alzheimer's GenomicsDB: A resource for exploring Alzheimer's disease genetic and genomic knowledge. 
+    Alzheimers Dement. 2023 Oct 26. doi: 10.1002/alz.13509. Online ahead of print. 
+    PMID: 37881831
+
 2022
 
     Amos B, Aurrecoechea C, Barba M, Barreto A, Basenko EY, Bażant W, Belnap R, Blevins AS, Böhme U, Brestelli J, Brunk BP, Caddick M, Callan D, Campbell L, Christensen MB, Christophides GK, Crouch K, Davis K, DeBarry J, Doherty R, Duan Y, Dunn M, Falke D, Fisher S, Flicek P, Fox B, Gajria B, Giraldo-Calderón GI, Harb OS, Harper E, Hertz-Fowler C, Hickman MJ, Howington C, Hu S, Humphrey J, Iodice J, Jones A, Judkins J, Kelly SA, Kissinger JC, Kwon DK, Lamoureux K, Lawson D, Li W, Lies K, Lodha D, Long J, MacCallum RM, Maslen G, McDowell MA, Nabrzyski J, Roos DS, Rund SSC, Schulman SW, Shanmugasundram A, Sitnik V, Spruill D, Starns D, Stoeckert CJ, Tomko SS, Wang H, Warrenfeltz S, Wieck R, Wilkinson PA, Xu L, Zheng J.
